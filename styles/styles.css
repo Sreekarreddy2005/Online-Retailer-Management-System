@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.home-container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  width: 100%; /* Full width */
+  padding: 15px;
+  font-size: 18px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
